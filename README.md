@@ -1,5 +1,3 @@
-# contiune
-#O'quvchinig bilmini sinash
 print("Siz dasturda karra jadavalini bilishingini tekshirishingiz mumkin")
 table=int(input("istalgan karra(raqamini) kirting:"))
 for i in range(1,10):
